@@ -1,6 +1,6 @@
-# CutefishOS Plymouth Theme
+# YoyoOS Plymouth Theme
 
-Cutefishos boot background
+Yoyoos boot background
 
 ## License
 

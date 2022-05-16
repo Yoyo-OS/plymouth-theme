@@ -1,10 +1,10 @@
 [Plymouth Theme]
-Name=Cutefish Text
-Description=CutefishOS
+Name=Yoyo Text
+Description=YoyoOS
 ModuleName=text
 
 [text]
-title=CutefishOS
+title=YoyoOS
 black=0x263238
 white=0xffffff
 brown=0x03A9F4

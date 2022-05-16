@@ -1,11 +1,11 @@
-Source: cutefish-plymouth-theme
+Source: yoyo-plymouth-theme
 Section: misc
 Priority: optional
-Maintainer: Reion Wong <reion@cutefishos.com>
+Maintainer: Reion Wong <reion@yoyoos.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 
-Package: cutefish-plymouth-theme
+Package: yoyo-plymouth-theme
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Plymouth theme for CutefishOS.
+Description: Plymouth theme for YoyoOS.
